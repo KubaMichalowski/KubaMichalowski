@@ -29,6 +29,6 @@ class Fafikk extends Developer {
 
 <div align="center">
   
-  **📧 [contact@fkubamichalowski.pl](mailto:contact@kubamichalowski.pl)**
+  **📧 [contact@kubamichalowski.pl](mailto:contact@kubamichalowski.pl)**
   
 </div>
