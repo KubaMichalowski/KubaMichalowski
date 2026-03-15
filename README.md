@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there! I'm Kuba</h1>
 
-<h3 align="center">🚀 About Me</h3>
+<h3>🚀 About Me</h3>
 
 Backend developer with a strong interest in DevOps, infrastructure, and automation.
 
