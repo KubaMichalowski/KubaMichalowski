@@ -1,4 +1,4 @@
-## 👋 Hey there! I'm Kuba
+<h1 align="center">👋 Hey there! I'm Kuba</h1>
 
 ### 🚀 About Me
 
