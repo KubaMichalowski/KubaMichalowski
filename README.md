@@ -17,17 +17,17 @@ My main focus right now is running and managing my homelab, deploying services w
 <h3 align="center">🔥 Check my portfolio</h3>
 
 <div align="center">
-  
-  **[kubamichalowski.pl](https://kubamichalowski.pl/)**
-  
+    <strong>
+        <a href="https://kubamichalowski.pl/" target="_blank">kubamichalowski.pl</a>
+    </strong>
 </div>
 
 <h3 align="center">🤝 Contact me!</h3>
 
 <div align="center">
-  
-  **[contact@kubamichalowski.pl](mailto:contact@kubamichalowski.pl)**
-  
+    <strong>
+        <a href="mailto:contact@kubamichalowski.pl">contact@kubamichalowski.pl</a>
+    </strong>
 </div>
 
 ---
