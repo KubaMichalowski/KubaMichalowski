@@ -13,7 +13,7 @@ My main focus right now is running and managing my homelab, deploying services w
 
 <div align="center">
   
-  **🌐 [kubamichalowski.pl](https://kubamichalowski.pl/)**
+  **[kubamichalowski.pl](https://kubamichalowski.pl/)**
   
 </div>
 
@@ -21,6 +21,6 @@ My main focus right now is running and managing my homelab, deploying services w
 
 <div align="center">
   
-  **📧 [contact@kubamichalowski.pl](mailto:contact@kubamichalowski.pl)**
+  **[contact@kubamichalowski.pl](mailto:contact@kubamichalowski.pl)**
   
 </div>
