@@ -8,7 +8,7 @@ My main focus right now is running and managing my homelab, deploying services w
 
 ### 🛠️ Tech stack
 <div align="center">
-![](https://skillicons.dev/icons?i=tailwind,js,php,mysql,ubuntu,redhat,docker,git,cloudflare)
+    <img src="https://skillicons.dev/icons?i=tailwind,js,php,mysql,ubuntu,redhat,docker,git,cloudflare">
 </div>
 
 ### 🔥 Check my portfolio
