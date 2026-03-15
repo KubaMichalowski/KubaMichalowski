@@ -6,11 +6,13 @@ Backend developer with a strong interest in DevOps, infrastructure, and automati
 
 My main focus right now is running and managing my homelab, deploying services with Docker, and maintaining Linux servers.
 
-<h3 align="center">🛠️ Tech stack</h3>
+<h3>🛠️ Tech stack</h3>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=tailwind,js,php,mysql,ubuntu,redhat,docker,git,cloudflare">
 </div>
+
+---
 
 <h3 align="center">🔥 Check my portfolio</h3>
 
