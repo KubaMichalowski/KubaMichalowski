@@ -1,15 +1,15 @@
-# 👋 Hey there! I'm Kuba
+## 👋 Hey there! I'm Kuba
 
-## 🚀 About Me
+### 🚀 About Me
 
 Backend developer with a strong interest in DevOps, infrastructure, and automation.
 
 My main focus right now is running and managing my homelab, deploying services with Docker, and maintaining Linux servers.
 
-## 🛠️ Tech stack
+### 🛠️ Tech stack
 ![](https://skillicons.dev/icons?i=tailwind,js,php,mysql,ubuntu,redhat,docker,git,cloudflare)
 
-## 🔥 Check my portfolio
+### 🔥 Check my portfolio
 
 <div align="center">
   
@@ -17,7 +17,7 @@ My main focus right now is running and managing my homelab, deploying services w
   
 </div>
 
-## 🤝 Contact me!
+### 🤝 Contact me!
 
 <div align="center">
   
