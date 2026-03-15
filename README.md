@@ -2,28 +2,20 @@
 
 ## 🚀 About Me
 
-```php
-<?php
+Backend developer with a strong interest in DevOps, infrastructure, and automation.
 
-class Fafikk extends Developer {
-    
-    public function __construct() {
-        $this->location = "Poland";
-        $this->role = "Backend Developer";
-        $this->languages = ["PHP", "JavaScript"];
-        $this->passion = "Clean code & efficient solutions";
-    }
-    
-    public function getCurrentFocus(): array {
-        return [
-            "🔥" => "Improving skills",
-            "🌱" => "Learning new technologies",
-            "💡" => "Building cool projects",
-            "🎯" => "Optimizing application performance"
-        ];
-    }
-}
-```
+My main focus right now is running and managing my homelab, deploying services with Docker, and maintaining Linux servers.
+
+## 🛠️ Tech stack
+![](https://skillicons.dev/icons?i=js,php,mysql,ubuntu,redhat,docker,git,cloudflare)
+
+## 🔥 Check my portfolio
+
+<div align="center">
+  
+  **🌐 [kubamichalowski.pl](https://kubamichalowski.pl/)**
+  
+</div>
 
 ## 🤝 Contact me!
 
